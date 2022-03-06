@@ -4,9 +4,7 @@
 
 
 
-/// <summary>
-/// Wave class constructor 
-/// </summary>
+
 /// <param name="name">Name of the wave </param>
 /// <param name="numberOfEnemies">Number of enemies </param>
 /// <param name="initialHealth">initial health of the wave</param>
